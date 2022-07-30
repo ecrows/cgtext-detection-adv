@@ -59,3 +59,14 @@ pip install git@github.com:stanfordnlp/stanza.git@dev
 ## Running the experiments
 
 Run through the notebooks in order.  Intermediate data files can be used to avoid re-running sections (use data loading commands as appropriate).
+
+### Paper Citation (to be published in IJCNN 2022)
+
+```
+@article{crothers2022adversarial,
+  title={Adversarial Robustness of Neural-Statistical Features in Detection of Generative Transformers},
+  author={Crothers, Evan and Japkowicz, Nathalie and Viktor, Herna and Branco, Paula},
+  journal={arXiv preprint arXiv:2203.07983},
+  year={2022}
+}
+```
