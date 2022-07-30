@@ -1,0 +1,14 @@
+stanza
+spacy==2.1.0 #2.3.5
+pandas
+textstat
+scikit-learn
+jupyter
+ipywidgets
+IProgress
+neuralcoref==4.0 # may need to specify --no-binary
+matplotlib
+textattack
+sentence-transformers
+mauve-text
+huggingface
