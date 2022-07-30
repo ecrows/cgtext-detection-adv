@@ -2,7 +2,7 @@
 
 Code for loading computer-generated text datasets, training text classification models on these datasets, and evaluating adversarial text attacks against them.
 
-Results to be published in the paper ``Evaluating Adversarial Robustness of Detection of Transformer-Generated Text".
+Results published in the paper "Adversarial Robustness of Neural-Statistical Features in Detection of Generative Transformers".
 
 ## Install Requirements
 
